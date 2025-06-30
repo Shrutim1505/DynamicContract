@@ -37,7 +37,7 @@ Unlike traditional solutions focused only on document templates or e-signatures,
 
 ✅ **Integration Platform**
 
-* E-signature workflows (like DocuSign) included
+* E-signature workflows included
 * Connects to financial systems for transaction tracking
 * Calendar integration for deadlines
 * Custom API support for industry-specific needs
