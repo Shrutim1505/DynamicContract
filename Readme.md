@@ -1,8 +1,8 @@
-# DynamicContractOps - AI-Powered Smart Legal Contract Collaboration Platform
+# SmartAccord - AI-Powered Smart Legal Contract Collaboration Platform
 
 ## 🚀 Overview
 
-**DynamicContractOps** is a full-stack AI-powered platform that transforms how legal contracts are created, negotiated, and managed. Combining real-time collaboration, intelligent clause suggestions, and data-driven negotiation insights, it empowers legal teams to draft, review, and finalize contracts faster and with reduced risk.
+**SmartAccord** is a full-stack AI-powered platform that transforms how legal contracts are created, negotiated, and managed. Combining real-time collaboration, intelligent clause suggestions, and data-driven negotiation insights, it empowers legal teams to draft, review, and finalize contracts faster and with reduced risk.
 
 Unlike traditional solutions focused only on document templates or e-signatures, DynamicContractOps revolutionizes the **entire contract lifecycle**, delivering unmatched efficiency, transparency, and AI-driven optimization.
 
